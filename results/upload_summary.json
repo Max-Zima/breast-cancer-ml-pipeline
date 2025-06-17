@@ -1,0 +1,22 @@
+{
+  "storage_type": "local",
+  "total_files": 15,
+  "successful_uploads": 15,
+  "files": [
+    "breast_cancer_model.joblib",
+    "confusion_matrix.png",
+    "data_analysis.txt",
+    "evaluation_report.txt",
+    "metrics_summary.png",
+    "model_info.txt",
+    "model_metrics.json",
+    "RESULTS_SUMMARY.md",
+    "roc_curve.png",
+    "scaler.joblib",
+    "upload_summary.json",
+    "X_test.csv",
+    "X_train.csv",
+    "y_test.csv",
+    "y_train.csv"
+  ]
+}

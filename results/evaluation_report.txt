@@ -1,0 +1,29 @@
+=== BREAST CANCER MODEL EVALUATION REPORT ===
+
+Model Type: LogisticRegression
+Test Set Size: 105
+Feature Count: 30
+
+=== PERFORMANCE METRICS ===
+Accuracy:     0.9619
+Precision:    0.9677
+Recall:       0.9091
+F1-Score:     0.9375
+Specificity:  0.9861
+ROC AUC:      0.9958
+
+=== CONFUSION MATRIX ===
+True Negatives:  71
+False Positives: 1
+False Negatives: 3
+True Positives:  30
+
+=== SAMPLE DISTRIBUTION ===
+Total Samples:    105
+Positive Samples: 33
+Negative Samples: 72
+
+=== INTERPRETATION ===
++ Excellent accuracy achieved
++ Good recall
++ Excellent precision (low false positives)
