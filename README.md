@@ -895,6 +895,6 @@ airflow tasks test breast_cancer_ml_pipeline model_evaluation 2024-01-01
 
 ---
 
-**Автор**: Data Engineer  
-**Дата**: 2024  
+**Автор**: Зимаков Максим
+**Дата**: 2025
 **Версия**: 1.0
